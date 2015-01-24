@@ -1,6 +1,6 @@
 # Google Cloud Storage API Demo
 
-Simple Demo based on https://cloud.google.com/storage/docs/json_api/v1/json-api-python-samples
+Simplest Demo based on https://cloud.google.com/storage/docs/json_api/v1/json-api-python-samples
 
 # Install dependencies
 
